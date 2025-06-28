@@ -1,0 +1,6 @@
+# Name of Muhammad S.A.W.W
+# Google AdMob
+google.com, pub-3046673828489318, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network
+facebook.com, 2199734140478661, DIRECT, c3e20eee3f780d68
